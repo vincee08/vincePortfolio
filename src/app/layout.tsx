@@ -7,10 +7,10 @@ import { LoadingScreen } from "@/components/ui/LoadingScreen";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Dev Portfolio | Senior Full-Stack Web Developer",
+  title: "Vince Buladaco",
   description: "Portfolio of a Senior Full-Stack Developer specializing in React, Next.js, AI Solutions, and IoT Systems.",
   openGraph: {
-    title: "Dev Portfolio | Senior Full-Stack Web Developer",
+    title: "Vince Buladaco",
     description: "Portfolio of a Senior Full-Stack Developer specializing in React, Next.js, AI Solutions, and IoT Systems.",
     url: "https://yourportfolio.com",
     siteName: "Developer Portfolio",
